@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inatesid.github.io/sitemap.html.gz
+Sitemap: https://inatesid.github.io/app/sitemap.html.gz
+Sitemap: https://inatesid.github.io/assets/sitemap.html.gz
+Sitemap: https://inatesid.github.io/css/sitemap.html.gz
+Sitemap: https://inatesid.github.io/includes/sitemap.html.gz
+Sitemap: https://inatesid.github.io/item/sitemap.html.gz
+Sitemap: https://inatesid.github.io/src/sitemap.html.gz
